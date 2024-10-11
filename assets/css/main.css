@@ -1120,7 +1120,7 @@ section,
 @media (max-width: 575px) {
 
   section,
-  .section {padding: 0;}
+  .section {padding: 20px 0 0 0;}
 }
 
 .contact .info-item {
